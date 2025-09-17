@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-delfino&label=Profile%20views&color=0e75b6&style=flat" alt="jean-delfino" /> </p>
 
-- 🔭 I’m currently working on [making personal projects](https://itch.io/game/edit/2451313)
+- 🔭 I’m currently working on a project)
 
 - 🌱 I’m currently learning **Unity, Unreal Engine and C++**
 
@@ -18,6 +18,7 @@
 - 📫 How to reach me **jeancarlodelfinol@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jean-delfino-64b2b1210/](https://www.linkedin.com/in/jean-delfino-64b2b1210/)
+Or at https://jeancarlodelfinol.wixsite.com/portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
