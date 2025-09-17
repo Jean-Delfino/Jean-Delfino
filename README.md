@@ -18,7 +18,7 @@
 - 📫 How to reach me **jeancarlodelfinol@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jean-delfino-64b2b1210/](https://www.linkedin.com/in/jean-delfino-64b2b1210/)
-Or at https://jeancarlodelfinol.wixsite.com/portfolio
+or at https://jeancarlodelfinol.wixsite.com/portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
